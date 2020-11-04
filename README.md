@@ -3,7 +3,7 @@ Simple Spiget API wrapper for Deno
 
 ### Example
 ```ts
-import { Spiget } from './mod.ts';
+import { Spiget } from 'https://deno.land/x/spiget_deno@v1.0.0/mod.ts';
 
 const example_user_id = 12345; // Change this
 
